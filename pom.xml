@@ -26,13 +26,14 @@
 		</dependency>
 
 	</dependencies>
-	
+
+
 	<distributionManagement>
-        <repository>
-        <id>maven-releases</id>
-        <url>http://65.0.19.175:8081/repository/maven-releases/</url>
-        </repository>
-        </distributionManagement>
+           <repository>
+            <id>maven-releases</id>
+             <url>http://65.0.19.175:8081/repository/maven-releases/</url>
+              </repository>
+       </distributionManagement>
 
 	
 	<pluginRepositories>
